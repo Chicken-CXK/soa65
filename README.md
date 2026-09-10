@@ -4,7 +4,7 @@ Reproducibility materials for curve–condition binding and deterministic query 
 
 ## Download
 
-[Download the complete reader package](SOA65_Public_Package.zip?raw=1) (approximately 13.4 MB).
+[Download the complete reader package](SOA65_Public_Package.zip?raw=1) (approximately 13.0 MB).
 
 Extract the archive to obtain the `Public_Package/` directory. Its `README.md` explains the data, implementation, experiment settings and result files.
 
